@@ -12,3 +12,7 @@ Get instant, reliable health information powered by advanced AI technology.
 ## Why Choose SaviChat?
 
 Our AI-powered platform provides instant, accurate health information while maintaining your privacy and security. Get reliable guidance anytime, anywhere.
+
+### About SaviChat
+
+Learn more about our mission and commitment to health information. SaviChat is dedicated to making reliable health information accessible to everyone. We combine advanced AI technology with trusted medical resources to provide accurate, up-to-date health information and guidance.
