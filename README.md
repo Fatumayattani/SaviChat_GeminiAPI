@@ -16,3 +16,7 @@ Our AI-powered platform provides instant, accurate health information while main
 ### About SaviChat
 
 Learn more about our mission and commitment to health information. SaviChat is dedicated to making reliable health information accessible to everyone. We combine advanced AI technology with trusted medical resources to provide accurate, up-to-date health information and guidance.
+
+## Our Mission
+
+SaviChat is committed to making reliable health information accessible to everyone. We combine advanced AI technology with trusted medical resources to provide accurate, up-to-date health information and guidance.
