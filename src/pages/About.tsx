@@ -13,7 +13,7 @@ export const About: React.FC = () => {
           />
           <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-blue-600/75 flex items-center">
             <div className="px-6">
-              <h1 className="text-3xl font-bold text-white mb-2">About HealthChat</h1>
+              <h1 className="text-3xl font-bold text-white mb-2">About SaviChat</h1>
               <p className="text-blue-100">
                 Learn more about our mission and commitment to health information
               </p>
@@ -45,7 +45,7 @@ export const About: React.FC = () => {
               <div>
                 <h2 className="text-2xl font-bold mb-4">Our Mission</h2>
                 <p className="text-gray-600">
-                  HealthChat is committed to making reliable health information accessible to everyone.
+                  SaviChat is committed to making reliable health information accessible to everyone.
                   We combine advanced AI technology with trusted medical resources to provide accurate,
                   up-to-date health information and guidance.
                 </p>
