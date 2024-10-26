@@ -4,7 +4,7 @@ import { Navbar } from './components/Navbar';
 import { Home } from './pages/Home';
 import { Chat } from './pages/Chat';
 import { Resources } from './pages/Resources';
-import { About } from './pages/About';
+import { About } from './pages/about';
 import { Settings } from './pages/Settings';
 
 function App() {
