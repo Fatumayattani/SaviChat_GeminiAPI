@@ -33,3 +33,5 @@ SaviChat is committed to making reliable health information accessible to everyo
 ## How We Help
 
 Our AI-powered chat system provides instant responses to your health queries, helping you understand symptoms, learn about conditions, and make informed decisions about your health. Remember, we're here to provide information, not to replace professional medical advice.
+
+---
