@@ -1,5 +1,6 @@
 import { GoogleGenerativeAI } from '@google/generative-ai';
 
+const apiKey = process.env.REACT_APP_GEMINI_API_KEY;
 const genAI = new GoogleGenerativeAI('AIzaSyCoiQ3R1a9JOA_Vk_vFvj8C7NiIL9Er8QM');
 
 export async function getChatResponse(prompt: string) {
