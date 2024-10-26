@@ -40,6 +40,7 @@ Our AI-powered chat system provides instant responses to your health queries, he
 
 If you have any questions or need assistance, feel free to reach out to our support team.
 
+---
 
 **Note**: This platform is designed to provide general health information and should not be considered a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition.
 
