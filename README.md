@@ -8,3 +8,7 @@ Get instant, reliable health information powered by advanced AI technology.
 - **AI-Powered Insights**: Advanced technology providing accurate health information.
 - **24/7 Availability**: Access health information whenever you need it.
 - **Privacy First**: Your health information stays private and secure.
+
+## Why Choose SaviChat?
+
+Our AI-powered platform provides instant, accurate health information while maintaining your privacy and security. Get reliable guidance anytime, anywhere.
