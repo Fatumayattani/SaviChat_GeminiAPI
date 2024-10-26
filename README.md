@@ -27,3 +27,9 @@ Learn more about our mission and commitment to health information. SaviChat is d
 ## Our Mission
 
 SaviChat is committed to making reliable health information accessible to everyone. We combine advanced AI technology with trusted medical resources to provide accurate, up-to-date health information and guidance.
+
+---
+
+## How We Help
+
+Our AI-powered chat system provides instant responses to your health queries, helping you understand symptoms, learn about conditions, and make informed decisions about your health. Remember, we're here to provide information, not to replace professional medical advice.
